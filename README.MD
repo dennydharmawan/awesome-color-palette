@@ -1,3 +1,5 @@
+Gray
+
 tailwind: {
   100: '#f7fafc',
   200: '#edf2f7',
@@ -45,3 +47,10 @@ carbon: {
   800: '#282828',
   900: '#171717',
 },
+
+
+http://contrast-grid.eightshapes.com/
+http://a11yrocks.com/colorPalette/
+https://codepen.io/tonytopper/live/ZpPVOx
+http://colorsafe.co/
+
